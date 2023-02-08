@@ -1,0 +1,19 @@
+nav{
+    Width: 1280px;
+    margin: auto;
+    
+    
+}
+.box__layout{
+    Width: 1280px;
+    margin: 0 auto;
+}
+.logo{
+    display: flex;
+    justify-content: space-between;
+    gap: 15px;
+    width: 106.01px;
+    height: 27.12px;
+}
+
+}
